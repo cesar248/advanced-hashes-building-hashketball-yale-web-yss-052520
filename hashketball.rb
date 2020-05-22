@@ -56,7 +56,7 @@ def game_hash
                       steals:  4,
                       blocks:  11,
                       slam_dunks: 1}
-]   } #End of home hash
+]   }, #End of home hash
 #Entering away hash at the below
 
 away: {team_name: "Charlotte Hornets",
