@@ -3,8 +3,8 @@ def game_hash
 {
 
   #has two keys :home and :away, which in turn have hashes
-  home: {team_name: "",
-        colors: [],
+  home: {team_name: "Brooklyn Nets",
+        colors: ["Black", "White"],
         players: [{player_name: ,
                    number:      ,
                    shoe:        ,
