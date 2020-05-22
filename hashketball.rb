@@ -112,7 +112,7 @@ home: {team_name: "Brooklyn Nets",
                     steals:  4,
                     blocks:  11,
                     slam_dunks: 1}
-]   } #End of away hash 
+]   } #End of away hash
 
 
 
