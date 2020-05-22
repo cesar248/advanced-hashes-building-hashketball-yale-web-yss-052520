@@ -3,17 +3,17 @@ def game_hash
 {
 
   #has two keys :home and :away, which in turn have hashes
-  home: {team_name: "", 
-        colors: [], 
+  home: {team_name: "",
+        colors: [],
         players: [{player_name: ,
-                   number:      , 
+                   number:      ,
                    shoe:        ,
                    points:      ,
                    rebounds:    ,
                    assists:     ,
                    steals:      ,
                    blocks:      ,
-                   slam_dunks:  
+                   slam_dunks:
 }]
 
 
@@ -27,7 +27,6 @@ def game_hash
 
 
 
-  
 
 
 
@@ -35,7 +34,8 @@ def game_hash
 
 
 
-} #End of home hash 
+
+} #End of home hash
 #Entering away hash at the below
 
 away: {}
@@ -44,4 +44,4 @@ away: {}
 
 
 }
-end 
+end
