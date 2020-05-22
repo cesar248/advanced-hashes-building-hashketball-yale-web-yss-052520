@@ -63,7 +63,7 @@ away: {team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: [
 
-        {player_name: "Alan Anderson",
+        {player_name: "Jeff Adrien",
                  number: 0,
                  shoe:  16,
                  points: 22,
